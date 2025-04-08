@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t9z1cloyx-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t9z1cloyx-go
